@@ -8,9 +8,9 @@ class SobreMim extends Desenvolvedor {
   public $area = "Docente / Dev. Fullstack";
   public $contato = [
       "paulo.whsantos@hotmail.com",
-      "linkedin.com/in/paulowh/",
-      "instagram.com/paulo.wh",
-      "paulowh.github.io"
+      "linkedin.com/in/paulocafee/",
+      "instagram.com/paulo.cafee",
+      "paulo.cafe"
     ];
   public $trabalho = "Senac";
   public $local = "Americana/SP";
