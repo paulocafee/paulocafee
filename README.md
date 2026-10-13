@@ -35,7 +35,7 @@ require_once "PauloSantos.php";
 
 class SobreMim extends Desenvolvedor {
     public string $nome = "Paulo H. Santos";
-    public string $idade = "27 anos";
+    public string $idade = "23 anos";
     public string $atuacao = "Docente & Dev. Full Stack";
     public string $empresaAtual = "Senac SP";
     public string $localizacao = "Americana / SP 🇧🇷";
